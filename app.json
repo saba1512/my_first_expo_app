@@ -9,7 +9,8 @@
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.saba15.firstexpo"
     },
     "android": {
       "package": "com.saba15.firstexpo",
@@ -51,6 +52,12 @@
         "projectId": "3ba10540-d1d5-4423-943e-6d4e72fa2b20"
       }
     },
-    "owner": "saba15"
+    "owner": "saba15",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/3ba10540-d1d5-4423-943e-6d4e72fa2b20"
+    }
   }
 }
